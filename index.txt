@@ -26,7 +26,7 @@
                     
                     </ul>
                     
-                    <a href="#"><img src ="img/download.png" width="30" height="auto"></a>
+  
                     
             </div>
 </header>
